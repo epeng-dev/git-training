@@ -1,2 +1,2 @@
 I write test2.txt
-asdfasdf
+I write test2.txt to make conflict
